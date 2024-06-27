@@ -1,0 +1,5 @@
+[user]
+    name = Anonymous Peer12345
+    email = user.40tggp27hj9iakem@tu-dresden.de
+[commit]
+    gpgsign = false
