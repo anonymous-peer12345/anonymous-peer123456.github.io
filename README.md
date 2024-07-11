@@ -43,7 +43,7 @@ spatio-temporal occurrence data"_ Opara digital research archive. DOI: xxx (will
 | hotspot_all_months.csv                        | 4             | Observed Frequencies Biodiversity Hotspots (HLL)             | 8.81 MB  |
 | flickr_all_months.csv                         | 5             | Expected Frequencies (HLL) for Flickr Post and User Counts   | 941 KB   |
 | inaturalist_all_months.csv                    | 5             | Expected Frequencies (HLL) for iNaturalist Post and User Counts       | 990 KB  |
-| flickr_milvusmilvus_months.csv                | 5             | Observed Frequencies (HLL) for iNaturalist Milvus Post and User Counts             | 19.69 MB |
+| flickr_milvusmilvus_months.csv                | 5             | Observed Frequencies (HLL) for iNaturalist Milvus Post and User Counts| 119 KB |
 | milvus_focus_flickr_inat_all_months.csv       | 5             | Observed Frequencies (HLL) Focus Region, iNaturalist and Flickr   | 1.01 MB  |
 | milvus_range_inat_all_months.csv              | 5             | Observed Frequencies (HLL) Milvus range, iNaturalist and Flickr    | 1.24 MB  |
 | inaturalist_birds_month.csv                   | 5             | Expected/Observed Frequencies (HLL) Aves-Group, iNaturalist    | 550 KB  |
