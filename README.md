@@ -27,6 +27,27 @@ S8 Jupyter Notebook: [08_milvus_conversion.html][08]
 S9 Jupyter Notebook: [09_milvus_maps.html][09]  
 S10 Jupyter Notebook: [10_milvus_chi.html][10]  
 
+## Data
+
+The following data are available in a separate data publication:
+
+> ... _Supplementary materials for the publication "Assessing perceived landscape change from opportunistic 
+spatio-temporal occurrence data"_ Opara digital research archive. DOI: xxx (will be updated after peer-review.)
+
+| Filename                                      | Case Study    | Description                                                  | Size     |
+| ----------------------------------------------|-------------- | ------------------------------------------------------------ | -------- |
+| massinvasions_all_months.csv                  | 1             | Post Frequences (HLL) for 13 Vantage Points in Europe from Instagram | 1.08 MB  |
+| reddit_all_months.csv                         | 2             | Post Frequences (HLL) for 20 National Parks from Reddit Subreddits   | 429 KB    |
+| reddit_comments_all_months.csv                | 2             | Comment Frequences (HLL) for 20 National Parks from Reddit Subreddits| 1.2 MB   |
+| flickr_cherries_hll.csv                       | 3             | Observed Frequencies (HLL) Users/Posts for Flickr Cherry Blossoming a| 181 KB   |
+| hotspot_all_months.csv                        | 4             | Observed Frequencies Biodiversity Hotspots (HLL)             | 8.81 MB  |
+| flickr_all_months.csv                         | 5             | Expected Frequencies (HLL) for Flickr Post and User Counts   | 941 KB   |
+| inaturalist_all_months.csv                    | 5             | Expected Frequencies (HLL) for iNaturalist Post and User Counts       | 990 KB  |
+| flickr_milvusmilvus_months.csv                | 5             | Observed Frequencies (HLL) for iNaturalist Milvus Post and User Counts             | 19.69 MB |
+| milvus_focus_flickr_inat_all_months.csv       | 5             | Observed Frequencies (HLL) Focus Region, iNaturalist and Flickr   | 1.01 MB  |
+| milvus_range_inat_all_months.csv              | 5             | Observed Frequencies (HLL) Milvus range, iNaturalist and Flickr    | 1.24 MB  |
+| inaturalist_birds_month.csv                   | 5             | Expected/Observed Frequencies (HLL) Aves-Group, iNaturalist    | 550 KB  |
+
 [1]: https://github.com/mwouts/jupytext
 [2]: https://gitlab.vgiscience.de/lbsn/tools/jupyterlab
 [01]: https://anonymous-peer12345.github.io/anonymous-peer123456.github.io/resources/html/01_mass_invasion.html
