@@ -31,8 +31,8 @@ S10 Jupyter Notebook: [10_milvus_chi.html][10]
 
 The following data are available in a separate data publication:
 
-> ... _Supplementary materials for the publication "Assessing perceived landscape change from opportunistic 
-spatio-temporal occurrence data"_ Opara digital research archive. DOI: xxx (will be updated after peer-review.)
+> ... _Supplementary materials for the publication " Assessing Perceived Landscape Change from Opportunistic Spatio-Temporal Occurrence Data". 
+Opara digital research archive._ DOI: [10.25532/OPARA-572](https://doi.org/10.25532/OPARA-572)
 
 | Filename                                      | Case Study    | Description                                                  | Size     |
 | ----------------------------------------------|-------------- | ------------------------------------------------------------ | -------- |
